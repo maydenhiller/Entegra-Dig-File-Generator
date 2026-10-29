@@ -1,0 +1,2 @@
+fonts-dejavu-core
+fonts-crosextra-carlito

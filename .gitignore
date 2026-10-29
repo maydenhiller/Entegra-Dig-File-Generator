@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.pytest_cache/
+# The staking report template holds coworkers' phone numbers and emails - keep it out of a public repo.
+templates/*.xlsm
